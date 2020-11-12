@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EACN,QAAQ,EAAE,MAAM;EACjB,qBAAU;IACN,OAAO,EAAE,CAAC;IACV,OAAO,EAAE,YAAY;IAEpB,SAAS,EAAE,gBAAgB;IAC5B,MAAM,EAAE,YAAW",
+"sources": ["animatext.scss"],
+"names": [],
+"file": "animatext.css"
+}

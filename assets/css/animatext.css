@@ -1,0 +1,9 @@
+.anim-cont {
+  overflow: hidden; }
+  .anim-cont .anim-elem {
+    opacity: 0;
+    display: inline-block;
+    transform: translateY(100%);
+    margin: 0 !important; }
+
+/*# sourceMappingURL=animatext.css.map */

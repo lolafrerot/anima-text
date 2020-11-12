@@ -1,0 +1,10 @@
+body * {
+
+  padding: 15px;
+  font-family: 'Raleway'; }
+
+#content-home, #header-home {
+  max-width: 900px;
+  margin: auto; }
+
+/*# sourceMappingURL=theme.css.map */
